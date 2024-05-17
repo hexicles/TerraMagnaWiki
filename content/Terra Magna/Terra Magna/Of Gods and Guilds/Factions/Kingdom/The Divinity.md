@@ -1,0 +1,1 @@
+The Divinity: Faction of Monks, Clerics and Paladins, devoted to worship of noble gods and destruction of evil. Members are usually clergy and priests. Their symbol is a prayer bell. This faction offers support by letting members request healing spells from its network of priests.

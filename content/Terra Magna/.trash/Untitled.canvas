@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0c9d63b59d9b20fc","x":-40,"y":500,"width":250,"height":60,"color":"2","type":"text","text":"Tsubaki Minekaga"},
+		{"id":"ee03ecb14fedbd36","x":85,"y":720,"width":250,"height":60,"color":"1","type":"text","text":"Rytearius Gingerson"},
+		{"id":"51c5221fbb47a869","x":-140,"y":880,"width":250,"height":60,"color":"5","type":"text","text":"Pollie Pokett"},
+		{"id":"a2504f080c91a9fd","x":-260,"y":220,"width":250,"height":60,"color":"3","type":"text","text":"Ren Kagane"}
+	],
+	"edges":[
+		{"id":"db9f8c6c6cd88328","fromNode":"0c9d63b59d9b20fc","fromSide":"bottom","toNode":"ee03ecb14fedbd36","toSide":"top","label":"slapp"},
+		{"id":"ee57962191e7a148","fromNode":"0c9d63b59d9b20fc","fromSide":"left","toNode":"51c5221fbb47a869","toSide":"top","label":"friendship"},
+		{"id":"3fa11a18fc215d68","fromNode":"0c9d63b59d9b20fc","fromSide":"top","toNode":"a2504f080c91a9fd","toSide":"bottom","label":"tension"}
+	]
+}

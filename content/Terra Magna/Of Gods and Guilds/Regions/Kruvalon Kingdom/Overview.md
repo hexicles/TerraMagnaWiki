@@ -1,0 +1,1 @@
+The oldest reigning faction, King Kruva sustains his immortality through mysterious means. His royal family and appointed ministers take care of the minutiae of running a kingdom. The capital city is Oserith and the subjects of the kingdom enjoy many freedoms and peace thanks to King Kruva’s mostly hands off rule.
