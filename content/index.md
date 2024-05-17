@@ -1,6 +1,6 @@
 terra magna lives here i guess
 
-[[A Brief History]]
+[[content/History/A Brief History|A Brief History]]
 
 The goobers 
 - [[Annesty Silverthorne]]
