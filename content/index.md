@@ -1,6 +1,10 @@
-terra magna lives here i guess
+# Gathered Friends, Listen again
+## To our Legend...
+### Of Terra Magna
 
-[[content/History/A Brief History|A Brief History]]
+![[terra magna map.jpg]]
+
+[[A Brief History]]
 
 The goobers 
 - [[Annesty Silverthorne]]
