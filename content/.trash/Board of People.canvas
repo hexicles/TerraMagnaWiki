@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"8032f3cbec81e4ee","x":-200,"y":-364,"width":250,"height":60,"color":"#d49c02","type":"text","text":"Hand of Citrine"},
+		{"id":"d238a780029d445e","x":140,"y":-620,"width":250,"height":60,"color":"1","type":"text","text":"Rytearius Gingerson"},
+		{"id":"01a3675aa0544511","x":200,"y":-280,"width":250,"height":54,"type":"text","text":"Pollie Pokett"},
+		{"id":"49a0e0aa5814ec8a","x":-150,"y":-160,"width":250,"height":60,"color":"2","type":"text","text":"Tsubaki Minekaga"},
+		{"id":"09c60af5aec42f9c","x":-400,"y":-620,"width":250,"height":60,"color":"4","type":"text","text":"Annesty Silverthorne"},
+		{"id":"ba999eaaee6bcb4d","x":-650,"y":-313,"width":250,"height":60,"color":"#959f04","type":"text","text":"Levon Chevalier"}
+	],
+	"edges":[
+		{"id":"0a27e1b14e8582e2","fromNode":"ba999eaaee6bcb4d","fromSide":"right","toNode":"8032f3cbec81e4ee","toSide":"left"},
+		{"id":"11525d65ea4e47f0","fromNode":"09c60af5aec42f9c","fromSide":"bottom","toNode":"8032f3cbec81e4ee","toSide":"top"},
+		{"id":"82b4c77a7cd890ea","fromNode":"d238a780029d445e","fromSide":"bottom","toNode":"8032f3cbec81e4ee","toSide":"top"},
+		{"id":"8290dd447e4038dd","fromNode":"01a3675aa0544511","fromSide":"top","toNode":"8032f3cbec81e4ee","toSide":"right"},
+		{"id":"a515d2aeb8989c5d","fromNode":"49a0e0aa5814ec8a","fromSide":"top","toNode":"8032f3cbec81e4ee","toSide":"bottom"}
+	]
+}
