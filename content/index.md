@@ -20,4 +20,5 @@ The Factions
 - [[Magna's Naturalists]]
 - [[The Divinity]]
 
+
 ![[terra magna map.jpg]]
