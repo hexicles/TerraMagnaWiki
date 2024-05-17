@@ -10,7 +10,8 @@ A Brief History of Terra Magna
     
 4. Age of Quiet: Defeating the Titans and their kin, The Gods began to found their own realms and planes. Terra Magna was peaceful again, circa Anno 600
     
-5. Age of Mortals: [[Of Gods and Guilds/Regions/Solar Theocracy/Overview|With neither Titans or Gods to fear]], [[Of Gods and Guilds/Regions/Kruvalon Kingdom/Overview|mortals took upon themselves to rule]] [[Of Gods and Guilds/Regions/Infinite Sultanate/Overview|and keep the peace]], circa Anno 700 - Present
-    
+5. Age of Mortals: [[Of Gods and Guilds/Regions/Solar Theocracy/Overview|With neither Titans or Gods to fear]], [[Of Gods and Guilds/Regions/Kruvalon Kingdom/Overview|mortals took upon themselves to rule]] [[Of Gods and Guilds/Regions/Infinite Sultanate/Overview|and keep the peace]], circa Anno 700 - 1100
+	
+6. Age of Stars: Five new adventurers make their mark on history. 
 
   

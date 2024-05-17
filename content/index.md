@@ -1,14 +1,23 @@
-# Gathered Friends, Listen again
-## To our Legend...
-### Of Terra Magna
+### Gathered friends, welcome again to our home, of ***Terra Magna***!
 
-![[terra magna map.jpg]]
+This wiki is dedicated to the RPG setting of Terra Magna and its players.
 
 [[A Brief History]]
 
-The goobers 
+The Players
 - [[Annesty Silverthorne]]
 - [[Levon Chevalier]]
 - [[Pollie Pokett]]
 - [[Rytearius Gingerson]]
 - [[Tsubaki Minekaga]]
+
+The Factions
+- [[Baron's Alliance]]
+- [[Black Chyrsanthemum]]
+- [[Blue Devils]]
+- [[His Highness' Royal Company]]
+- [[League of Guilds]]
+- [[Magna's Naturalists]]
+- [[The Divinity]]
+
+![[terra magna map.jpg]]
