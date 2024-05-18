@@ -1,4 +1,11 @@
-#Rytearius_Gingerson
+---
+title: Rytearius Gingerson
+draft: false
+tags:
+  - "#Rytearius_Gingerson"
+  - "#PC"
+  - League_of_Guilds
+---
 
 ### Bravery and Cowardice
 

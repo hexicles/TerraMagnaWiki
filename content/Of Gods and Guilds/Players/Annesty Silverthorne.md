@@ -1,4 +1,11 @@
-#Annesty_Silverthorne 
+---
+title: Annesty Silverthorne
+draft: false
+tags:
+  - "#Annesty_Silverthorne"
+  - PC
+  - Magnas_Naturalists
+---
 
 ### A series of Unfortunate Events
 

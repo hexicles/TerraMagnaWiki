@@ -1,3 +1,12 @@
+---
+title: The Gods
+draft: false
+tags:
+  - Gods
+  - Exposition
+  - Titanomachy
+---
+  
 Once normal mortals that walked Terra Magna, these beings of immense power slain the nine [[The Titans]]. Prayer will still earn their favor.
 
   

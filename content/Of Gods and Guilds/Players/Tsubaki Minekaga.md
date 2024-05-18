@@ -1,4 +1,10 @@
-#Tsubaki_Minekaga
+---
+title: Tsubaki Minekaga
+draft: false
+tags:
+  - "#Tsubaki_Minekaga"
+  - "#PC"
+---
 
 ### Blood and Violence
 

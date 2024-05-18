@@ -1,3 +1,12 @@
+---
+title: The Titans
+draft: false
+tags:
+  - "#Titans"
+  - Titanomachy
+  - Exposition
+---
+  
 
 These beings were also once mortal, but overwhelming power turned them absolutely evil in every way. They commanded great power over their domains, but after being defeated by [[The Gods]], now they only watch from the constellations.
 

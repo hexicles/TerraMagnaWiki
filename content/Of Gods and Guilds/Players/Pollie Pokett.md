@@ -1,5 +1,12 @@
-#Pollie_Pokett
-
+---
+title: Pollie Pokett
+draft: false
+tags:
+  - "#Pollie_Pokett"
+  - PC
+  - The_Divinity
+---
+ 
 ### Non-Believer
 
 copied directly from the character sheet sorry LOL

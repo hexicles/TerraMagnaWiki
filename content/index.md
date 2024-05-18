@@ -1,3 +1,9 @@
+---
+title: Home Page - Terra Magna Wiki
+draft: false
+tags:
+---
+  
 ### Gathered friends, welcome again to our home, of ***Terra Magna***!
 
 This wiki is dedicated to the RPG setting of Terra Magna and its players.
