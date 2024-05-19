@@ -18,7 +18,9 @@ Learn about the Players, The Hand of Citrine:
 - [[Rytearius Gingerson]]! Now with 20% extra +0 Intelligence!
 - [[Tsubaki Minekaga]]: Destroy! Destroy! Destroy more! MORE!
 
-Need more? Read all about [[The Gods]], [[The Titans]],the [[Character Diagram.png|Character Diagram]] and [[Oserith Overview|Oserith]]. Use the search bar for all the pages not linked here and use the tags listed under the page titles and 
+Need more? Read all about [[The Gods]], [[The Titans]],the [[Character diagram.png|Character Diagram]] and [[Oserith Overview|Oserith]]. Use the search bar for all the pages not linked here and use the tags listed under the page titles and 
 
 ![[terra magna map.jpg]]
+
 ![[hand of citrine.jpg]]
+*Map credit goes to hexicles*, *Art credit goes to [Ashe Corinthos](https://www.fanfiction.net/u/5013994/Ashe-Corinthos)*

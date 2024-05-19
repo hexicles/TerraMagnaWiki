@@ -93,14 +93,13 @@ Denotes the start of Winter. Traditionally celebrated by going to the neighbors 
 
 A helpful mnemonic to remember the months is:
 
-<p><b><i> Four Knights Marched Readily, How Gods Labor For New Songs, Even Melodies </b></i></p>
+> <b><i> Four Knights Marched Readily, How Gods Labor For New Songs, Even Melodies </b></i>
 
 
 Date format is written like so:
 
-<p> <i>Knock 4, '56</i>
-<br>
-<br>Today I wrote down the date! It's still MM/DD/YYYY. Some people find this strange but we've been doing it for at least 1100 years! </p>
+> *Knock 4, '56*
+> <br><br>Today I wrote down the date! It's still MM/DD/YYYY. Some people find this strange but we've been doing it for at least 1100 years! 
 
 
 Alternatively, the first letter of the month can be used too. as H/13.
@@ -108,8 +107,7 @@ Less commonly, the number of the month is used, like 5/13.
 
 An important note is that festivals between months are treated as separate from the months as a whole. Highharvest is between Nectar and Scale so a journal entry on Highharvest looks like
 
-<p><i>Highharvest, 1156</i>
-<br>
-<br>
-I just made fresh batch of pickles. I paid my taxes too. Helgha won the drinking contest this year. 4th year in a row.</p>
+>  *Highharvest, 1156*
+> <br>
+> I just made fresh batch of pickles. I paid my taxes too. Helgha won the drinking contest this year. 4th year in a row.
 
