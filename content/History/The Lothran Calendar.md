@@ -6,40 +6,40 @@ tags:
   - History
   - Mechanics
 ---
-## The Lothran Calendar
+# The Lothran Calendar
 Named after a scholar that brought the concept of tracking days from a far off land, The Lothran Calendar is the most common method used by humans in human cities. Other races have then adapted their calendars and festivals around the dates within the Lothran Calendar.
 
-### Month 1: Frigid
+## Month 1: Frigid
 Winter is frigid indeed.
 
 ###### Deadwinter
 Deadwinter is a festival to mark the midpoint of winter. It occurred on a special day between Frigid 30 and Knock 1. Amongst nobles and monarchs it is known as Midwinter and is traditionally used to make or renew alliances, although the common people called it Deadwinter Day, a reference to the cold and hard times that remained before the spring.
 
-### Month 2: Knock
+## Month 2: Knock
 Named after the sound heard by the doors kept closed because its still the depths of winter.
 
-### Month 3: Moth
+## Month 3: Moth
 Just as a moth emerges from its cocoon, the people leave the confines of their warm houses.
 
 ###### Vernal Equinox
 Denotes the start of spring. Usually celebrated with partying as a way of finishing up the last of the winter's supplies. It occurs on Moth 19.
 
-### Month 4: Rose
+## Month 4: Rose
 Flowers bloom in the gentle grasp of spring.
 
 ###### Bluegrass
 Bluegrass is a festival to welcome in the first day of spring. It occurred annually on a special day between Rose 30 and Heart 1. Traditionally, the wealthier people brought out flowers to give to the less wealthy, who either wore them or spread them on the ground to encourage the deities to usher in the summer.
 
-### Month 5: Heart
+## Month 5: Heart
 This is where the 'heart' of the year lives. Spring in full swing.
 
-### Month 6: Grail
+## Month 6: Grail
 Commoners would probably call this a cup. It's whats shared at dusk with friends in taverns and at dinner.
 
 ###### Summer Solstice
 Denotes the start of summer. Spring crops are harvested around this time, and beer and wine fermenting since last years fall are now ready to enjoy. It always lands on Grail 20. The longest day of the year.
 
-### Month 7: Lantern
+## Month 7: Lantern
 Like a small mote of flame in a lamp, summer begins.
 
 ###### Midsummerfeast
@@ -48,10 +48,10 @@ Midsummerfeast is a festival that celebrated love and music through feast. It oc
 ###### Shieldmeet
 Shieldmeet is the equivalent of a leap year day in The Lothran Calendar, occurring once every four years, adding a day after the festival of Midsummer and before Forge 1. Traditionally the day is used for fairs, bazaars, musical and theatrical performances, and tournaments of skill and magical ability. Nobles usually held court to hear the petitions of their people and to make or renew trade pacts, alliances, and agreements. Shieldmeet is known as <em>Cinnaelos'Cor </em>(also seen as <em>Cinnaeloscor</em>), "the Day of Corellon's Peace" in elvish.
 
-### Month 8: Forge
+## Month 8: Forge
 Much like its namesake, the heat of summer shapes the soft land with storms and rain.
 
-### Month 9: Nectar
+## Month 9: Nectar
 Sweet summer fruit and the bounty of the land paves the path for the end of summer.
 
 ###### Autumn Equinox
@@ -66,10 +66,10 @@ This day is often an important anniversary to various governments. Often, taxes 
 
 According to tradition, dwarves only drank water and elves drank only dew on this day. However, these traditions began to fade in the 12th century.
 
-### Month 10: Scale
+## Month 10: Scale
 As the balance of warmth and cold shifts like a scale, trade flourishes and both pantries and purses begin to fill.
 
-### Month 11: Edge
+## Month 11: Edge
 Leaves fall and blood spills on a knife's edge. The warmth dies.
 
 ###### Moonfeast
@@ -83,8 +83,33 @@ Heralds of Terra Magna had a number of special duties on the Moonfeast. Prime am
 
 Priests of a number of deities of various pantheons held rites, ceremonies, and festivals on the Feast of the Moon. Many, though not all, focused on remembering the dead in one way or another.
 
-### Month 12: Moon
+## Month 12: Moon
 Much like the setting sun, the year draws to a close, and the moon marks ends and beginnings.
 
 ###### Winter Solstice
-Denotes the start of Winter. Traditionally celebrated by going to the neighbors and sharing a fresh loaf of spiced bread on their porch and singing songs to the moon. The shortest night of the year. It occurs on Moon 20
+Denotes the start of Winter. Traditionally celebrated by going to the neighbors and sharing a fresh loaf of spiced bread on their porch and singing songs to the moon. The shortest night of the year. It occurs on Moon 20.
+
+---
+
+A helpful mnemonic to remember the months is:
+
+<p><b><i> Four Knights Marched Readily, How Gods Labor For New Songs, Even Melodies </b></i></p>
+
+
+Date format is written like so:
+
+<p> <i>Knock 4, '56</i>
+<br>
+<br>Today I wrote down the date! It's still MM/DD/YYYY. Some people find this strange but we've been doing it for at least 1100 years! </p>
+
+
+Alternatively, the first letter of the month can be used too. as H/13.
+Less commonly, the number of the month is used, like 5/13.
+
+An important note is that festivals between months are treated as separate from the months as a whole. Highharvest is between Nectar and Scale so a journal entry on Highharvest looks like
+
+<p><i>Highharvest, 1156</i>
+<br>
+<br>
+I just made fresh batch of pickles. I paid my taxes too. Helgha won the drinking contest this year. 4th year in a row.</p>
+
