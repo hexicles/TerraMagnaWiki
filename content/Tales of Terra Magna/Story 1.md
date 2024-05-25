@@ -48,7 +48,9 @@ The bones, gnawed clean, crackle in the fire. A small flask is passed back and f
 "A full belly and a bit of Firewine could raise the dead to life. As my thanks, I will try not to wallop you the first few games." The dragonborn's eyes light up. He lays a deck of small wooden cards on the mat. Eight cards dealt to each players hand, eight lay face up on the mat. They take turns matching tiles of each suit.
 
 "Say... Why come to the Kingdom at all? If you're just trailing behind your brothers and they only seem interested to see drinks and women, surely you could charter a boat to the Sultanate? There's plenty of scantily clad women in their... *'dancehalls'.*" The green one takes a red ribbon card. 
-The half-orc stares at the cards in his hand. "I am not fond of their 'merry' brotherhood. I am content in the company of myself." The blond takes the butterflies.The dragonborn looks disappointed.
+The half-orc stares at the cards in his hand. 
+
+"I am not fond of their 'merry' brotherhood. I am content in the company of myself." The blond takes the butterflies.The dragonborn looks disappointed.
 
 "But surely at some point, one of them turns around to look at you. What will you do then if they confront their stalker? What will *they* do when they find out it's *you?*"The dragonborn takes the Moon card.
 
