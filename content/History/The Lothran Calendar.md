@@ -9,6 +9,9 @@ tags:
 # The Lothran Calendar
 Named after a scholar that brought the concept of tracking days from a far off land, The Lothran Calendar is the most common method used by humans in human cities. Other races have then adapted their calendars and festivals around the dates within the Lothran Calendar.
 
+#### The Format
+There are 12 months of the year. Each Month has 30 days. Some festivals fall on certain days, meanwhile some festivals take place on special days between months. Including the 5 special holidays between months, the year evens out to 365 days. (366 on a leap year)
+
 ## Month 1: Frigid
 Winter is frigid indeed.
 
@@ -58,7 +61,7 @@ Sweet summer fruit and the bounty of the land paves the path for the end of summ
 Denotes the start of fall. One last harvest festival of the year. Families will often share the table with their neighbors and celebrate long into the night. It occurs on Nectar 21.
 
 ###### Highharvest
-Highharvest is an annual festival, taking place between 30 Nectar and 1 Scale. It is traditionally a feast to celebrate the harvest and the abundance of food, but also the time when those wishing to travel left on their journeys before winter set in.
+Highharvest is an annual festival, taking place between Nectar 30 and Scale 1. It is traditionally a feast to celebrate the harvest and the abundance of food, but also the time when those wishing to travel left on their journeys before winter set in.
 
 Preparations for the feast started as early as a tenday before, while preparing, cooking, and preserving the harvest for the cold winter months. Traditions varied from community to community, but examples of festive activity included food-related contests; races and challenges of skill and strength; receiving homemade sweets from the local clergy; and priests blessing larders, wine cellars, grain bins, and food preserves.
 

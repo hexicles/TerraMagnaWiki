@@ -2,7 +2,6 @@
 title: A Losing Hand
 draft: false
 tags:
-  - "#NPC"
   - "#Tales_Of_Terra_Magna"
 ---
 *Streaks of red cloud streams in the rain, painting a grim portrait. He wipes the blond bangs out of his face. Like a clown, his face colored in red and gray. His spear leaves a red trail in the dirt. He shuffles along as if nothing happened. He travels north.*

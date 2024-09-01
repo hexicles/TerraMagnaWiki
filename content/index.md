@@ -2,6 +2,7 @@
 title: Home Page - Terra Magna Wiki
 draft: false
 tags:
+  - Meta
 ---
   
 ### Gathered friends, welcome again to our home, of ***Terra Magna***!
@@ -20,9 +21,10 @@ Learn about the Players, The Hand of Citrine:
 
 Need more? Read all about [[The Gods]], [[The Titans]],the [[Character diagram.png|Character Diagram]] and [[Oserith Overview|Oserith]]. Use the search bar for all the pages not linked here and use the tags listed under the page titles.
 
-#### *New article! Read the first [[Story 1|Tale of Terra Magna!]]*
+#### *New article! Read the second! [[Story 2|Tale of Terra Magna!]] Featuring the not gone, nor forgotten, Sinclaire Dahral!*
 
+Interested in the creature behind the keyboard? Enter his [[Arena of the Mind]]!
 ![[terra magna map.jpg]]
 
 ![[hand of citrine.jpg]]
-*Map credit goes to hexicles*, *Art credit goes to [Ashe Corinthos](https://www.fanfiction.net/u/5013994/Ashe-Corinthos)*
+*Map credit goes to [[Arena of the Mind#Who, What, Why?|hexicles]],* *Art credit goes to [Ashe Corinthos](https://www.fanfiction.net/u/5013994/Ashe-Corinthos)*

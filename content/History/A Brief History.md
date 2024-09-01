@@ -26,6 +26,6 @@ Defeating the Titans and their kin, The Gods began to found their own realms and
 [[Theocracy Overview|With neither Titans or Gods to fear]], [[Kingdom Overview|mortals took upon themselves to rule]] [[Of Gods and Guilds/Regions/Infinite Sultanate/Sultanate Overview|and keep the peace]], circa Anno 600 - 1100
 	
 ### 6. Age of Stars
-Five new adventurers make their mark on history. circa Present.
+Five adventurers make their mark on history. circa Present.
 
 Also see: [[The Lothran Calendar]]
