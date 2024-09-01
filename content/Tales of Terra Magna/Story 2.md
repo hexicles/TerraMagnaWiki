@@ -119,6 +119,7 @@ He assumes a different fighting stance. The air around him swirls into a cooling
 <br>
 ---
 
+
 The fat man sighed and took off his glasses. He wiped great beads of sweat off his furrowed brow with a handkerchief and sighed. "Do I even have to explain? I know you understand exactly how this scores out."
 
 "I can hear you say it in my mind already," the thin man mimicked the fat man's voice. "Use of non-martial effects to sway battle results in instant disqualification for someone of high rank." He sat up straight in his chair. 
